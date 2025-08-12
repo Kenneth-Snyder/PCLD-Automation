@@ -1,6 +1,7 @@
 # PCLD-Automation
 Chrome extensions that automates various internal office tasks.
---This is a public landing page for the repository. To access the files, go to https://github.com/intel-sandbox/PCLD-Automation. If you need and don't have access to the main repo, please request it. 
+
+This is a public landing page for the repository. To access the files, go to https://github.com/intel-sandbox/PCLD-Automation. If you need and don't have access to the main repo, please request it. 
 
 Overview
 
