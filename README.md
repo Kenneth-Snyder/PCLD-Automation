@@ -5,7 +5,7 @@ This is a public landing page for the repository. To access the files, go to htt
 
 Overview
 
-The PCLD Automation Chrome Extension is designed to streamline asset management processes by automating interactions with various Intel web services. This extension facilitates the retrieval and processing of asset records, service tasks, incident tickets, and custodian information, enhancing efficiency and accuracy in asset tracking and management.
+The PCLD Automation browser Extension is designed to streamline asset management processes by automating interactions with various Intel web services. This extension facilitates the retrieval and processing of asset records, service tasks, incident tickets, and custodian information, enhancing efficiency and accuracy in asset tracking and management.
 
 Features
 
